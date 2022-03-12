@@ -1,0 +1,76 @@
+header {
+    font-size: 50px;
+}
+
+#G2 {
+    border: 5px;
+    border-style: solid;
+    margin-right: 700px; 
+    border-radius: 20px;
+    width: 20%;
+    height: 400px;  
+    background-color:#be3d3d;
+    background: linear-gradient(130deg, #be3d3d, #3cd31e);
+    text-align: center;
+    position: relative;
+    left: 21%;
+}
+#Quest2{
+    border: 5px;
+    border-style: solid;
+    margin-right: 700px; 
+    border-radius: 20px;
+    width: 20%;
+    height: 400px;  
+    background-color:#f8f8ff;
+    background: linear-gradient(130deg, #f8f8ff, #e6be8a);
+    text-align: center;
+    position: relative;
+    bottom: 410px;
+    left: 42%;
+}
+
+
+#WhatisaVRHeadset {
+    margin-right: 1px;
+}
+#Start { 
+    border: 5px;
+    border-style: solid;
+    margin-right: 700px; 
+    background-color: aquamarine;
+    border-radius: 20px;
+    background: linear-gradient(45deg, aquamarine, #FD95C9);
+    width: 20%;
+    height: 400px;
+    text-align: center;
+
+    
+}
+#Basic {
+    width: 300px;
+    height: 160px;
+    bottom: 30px;
+}
+#ValveIndex {
+    border: 5px;
+    border-style: solid;
+    margin-right: 700px; 
+    border-radius: 20px;
+    width: 20%;
+    height: 400px;  
+    /*background-color:#669adf; */
+    background: linear-gradient(130deg, #669adf, #27d83f);
+    text-align: center;
+    position: absolute;
+
+}
+#QuestPic{ 
+    width: 298px;
+    height: 160px;
+}
+body {
+    background-color: azure;
+    background: linear-gradient(70deg, #ff71ce, #669adf);
+}
+/* Add a why would you get a vr headset
